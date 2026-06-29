@@ -1,5 +1,8 @@
 # Pavani880--Data-Analyst--My-profile
 
+<img width="2172" height="724" alt="Pavani Github " src="https://github.com/user-attachments/assets/c063c1d0-c92d-46e9-b7bf-4f5a1a53c76f" />
+
+
 <h1 align="center">Hello Everyone This is Pavani </h1>
 <h3 align="center">A Data Analyst from Hyderabad | Power BI • SQL • Excel • Business Insights</h3>
 <h4 align="left"> About me </h4>
