@@ -11,7 +11,20 @@ Data Analyst skilled in SQL, Python, Power BI, and Excel, focused on solving bus
 Transitioning from BFSI Operations to Data Analytics with expertise in SQL, Python, Power BI, and data visualization.
 Building data-driven solutions with SQL, Python, Power BI, and Excel while continuously learning and growing as a Data Analyst.</p>
 
-- I am passionate about solving business problems using data and am actively seeking opportunities as a Data Analyst, Business Analyst, Reporting Analyst, MIS Analyst, or Power BI Developer 
+💼 Currently seeking full-time opportunities as a:
+
+    Data Analyst
+    
+    Business Analyst
+    
+    Reporting Analyst
+    
+    MIS Analyst
+    
+    Power BI Developer
+    
+    Data Visualization Analyst
+
 - I’m looking to collaborate on **Data Analytics, Business Intelligence, and Dashboard Projects**
 
 -  Ask me about **Power BI Dashboards, SQL Queries, Excel Analysis, Data Visualization**
@@ -20,17 +33,15 @@ Building data-driven solutions with SQL, Python, Power BI, and Excel while conti
 
 -  Fun fact **I enjoy turning messy data into clear business insights 📊**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets's Connect:</h3>
 
-pavanidurga06@gmail.com
+EMAIL :pavanidurga06@gmail.com
 
-9390234214
+LINKEDIN : www.linkedin.com/in/pavanidurga06
 
-<p align="left">
-  
-</p>
+PHONE : 9390234214
 
 <h3 align="left">Languages and Tools:</h3>
 
-SQL,PYTHON, EXCEL , POWER BI 
+SQL,PYTHON, EXCEL , POWER BI , Tableau, Business insights
 
